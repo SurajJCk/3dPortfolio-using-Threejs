@@ -47,6 +47,7 @@ const Contact = () => {
         });
 
         setTimeout(() => {
+          console.log("Timeout executed");
           hideAlert(false);
           setCurrentAnimation("idle");
           setForm({ name: "", email: "", message: "" });

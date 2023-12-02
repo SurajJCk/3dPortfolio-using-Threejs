@@ -74,8 +74,8 @@ const Home = () => {
             setCurrentStage={setCurrentStage}
           />
           <Plane
-            planePosition={planePosition}
-            planeScale={planeScale}
+            position={planePosition}
+            scale={planeScale}
             rotation={[0, 20, 0]}
             isRotating={isRotating}
           />
