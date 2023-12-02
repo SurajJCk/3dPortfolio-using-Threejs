@@ -21,7 +21,7 @@ const renderContent = {
   ),
   2: (
     <InfoBox
-      text="Love to explore the world of web development and artificial intelligence"
+      text="Love to explore the world of web development, data science and artificial intelligence"
       link="/about"
       btnText="Learn more"
     />
